@@ -1,1 +1,3 @@
 I can see how git is quite useful for a software developer.
+
+This is the change to notes.txt
